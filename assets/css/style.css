@@ -1,0 +1,23 @@
+p {
+    text-align: justify;
+}
+
+.my-headings {
+    margin-top: 40px;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+h1, h2, h3, .lead {
+    font-family: "Georgia";
+}
+
+.my-btn {
+    margin-top: 20px;
+}
+
+.navbar-brand {
+    font-family: 'Pacifico', cursive;
+}
